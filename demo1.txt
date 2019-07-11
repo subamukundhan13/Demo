@@ -1,1 +1,3 @@
-Hello world
+git intro 
+
+This is the assignment
